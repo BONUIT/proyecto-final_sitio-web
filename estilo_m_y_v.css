@@ -1,0 +1,21 @@
+body {
+    background-image: url(img/macaroons-6719280_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; /* Opcional: ajusta el tamaño de la imagen para cubrir todo el contenedor */
+  }
+  
+
+  .mision_y_vision {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333;
+    text-align: justify;
+    background-color: transparent;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
